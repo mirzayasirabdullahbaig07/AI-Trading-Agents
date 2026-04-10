@@ -1,0 +1,6 @@
+streamlit
+openai
+requests
+pandas
+plotly
+krakenex
