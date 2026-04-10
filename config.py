@@ -1,10 +1,10 @@
-import os
-from dotenv import load_dotenv
+# config.py
+# ─────────────────────────────────────────────────────────────
+# Developer: put your OpenAI API key here ONCE.
+# Users never need to touch this file or enter any key.
+# ─────────────────────────────────────────────────────────────
 
-# Load environment variables from .env
-load_dotenv()
-
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = "sk-your-key-here"   # ← paste your key here
 
 # Optional: lock down which model to use
 OPENAI_MODEL = "gpt-4o"
