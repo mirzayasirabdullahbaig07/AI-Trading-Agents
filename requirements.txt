@@ -4,3 +4,4 @@ requests
 pandas
 plotly
 krakenex
+python-dotenv
