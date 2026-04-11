@@ -1,10 +1,19 @@
 # config.py
 # ─────────────────────────────────────────────────────────────
-# Developer: put your OpenAI API key here ONCE.
-# Users never need to touch this file or enter any key.
+# Loads environment variables from .env file
 # ─────────────────────────────────────────────────────────────
 
-OPENAI_API_KEY = ""   # ← paste your key here
+import os
+from dotenv import load_dotenv
+
+# Load .env file
+load_dotenv()
+
+# Get API key from environment
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+if not OPENAI_API_KEY:
+    raise ValueError("❌ OPENAI_API_KEY not found in .env file")
 
 # Optional: lock down which model to use
 OPENAI_MODEL = "gpt-4o"
