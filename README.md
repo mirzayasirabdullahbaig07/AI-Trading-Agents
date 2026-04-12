@@ -39,6 +39,8 @@ Visit the project website for more details:
 Example:
 
 ```
+All pics
+```
 <img width="1920" height="872" alt="Screenshot 2026-04-12 182742" src="https://github.com/user-attachments/assets/95f43a70-17f5-4815-a45b-8084e46c5acb" />
 
 ---
