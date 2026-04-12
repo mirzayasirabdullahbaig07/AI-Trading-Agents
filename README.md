@@ -18,7 +18,8 @@ An automated AI-powered trading system designed to analyze market data, generate
 
 Check out the project in action:
 
-https://github.com/user-attachments/assets/a9450c95-e014-41e2-bb54-205da25fbf9a
+[Video Link](https://github.com/user-attachments/assets/a9450c95-e014-41e2-bb54-205da25fbf9a)
+
 ---
 
 ## 🌐 Website
