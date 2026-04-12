@@ -53,6 +53,7 @@ Example:
 <img width="1463" height="887" alt="Screenshot 2026-04-12 182921" src="https://github.com/user-attachments/assets/f2f082f9-073a-44a7-80a0-552364896f4a" />
 
 ```
+<img width="1920" height="872" alt="Screenshot 2026-04-12 182742" src="https://github.com/user-attachments/assets/95f43a70-17f5-4815-a45b-8084e46c5acb" />
 
 ---
 
