@@ -14,6 +14,37 @@ An automated AI-powered trading system designed to analyze market data, generate
 
 ---
 
+## 🎥 Video Demo
+
+Check out the project in action:
+
+👉 *Add your demo video link here (YouTube / Loom / etc.)*
+
+---
+
+## 🌐 Website
+
+Visit the project website for more details:
+
+👉 *Add your website link here*
+
+---
+
+## 📸 Screenshots
+
+### Dashboard / Application Preview
+
+> Add screenshots here to showcase your project UI, outputs, or workflow.
+
+Example:
+
+```
+![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 2](path/to/screenshot2.png)
+```
+
+---
+
 ## 🗂️ Project Structure
 
 ```
@@ -125,5 +156,3 @@ This project is for educational purposes only. Trading cryptocurrencies involves
 ## 👤 Author
 
 **Mirza Yasir Abdullah Baig**
-
----
