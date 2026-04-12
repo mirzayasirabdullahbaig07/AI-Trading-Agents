@@ -39,22 +39,19 @@ Visit the project website for more details:
 Example:
 
 ```
-
-### Front Page
-<img width="1920" height="872" alt="Screenshot 2026-04-12 182742" src="https://github.com/user-attachments/assets/95f43a70-17f5-4815-a45b-8084e46c5acb" />
-
-###  Page 1
-<img width="1455" height="886" alt="Screenshot 2026-04-12 182844" src="https://github.com/user-attachments/assets/3d0c33bb-eb99-431c-b6df-6304437484c4" />
-
-###  Page 2
-<img width="1473" height="913" alt="Screenshot 2026-04-12 182901" src="https://github.com/user-attachments/assets/c07c0ca0-364c-4d63-984b-9ba4bd8a72a5" />
-
-###  Page 3
-<img width="1463" height="887" alt="Screenshot 2026-04-12 182921" src="https://github.com/user-attachments/assets/f2f082f9-073a-44a7-80a0-552364896f4a" />
-
 ```
 <img width="1920" height="872" alt="Screenshot 2026-04-12 182742" src="https://github.com/user-attachments/assets/95f43a70-17f5-4815-a45b-8084e46c5acb" />
 
+```
+<img width="1455" height="886" alt="Screenshot 2026-04-12 182844" src="https://github.com/user-attachments/assets/3d0c33bb-eb99-431c-b6df-6304437484c4" />
+
+```
+<img width="1473" height="913" alt="Screenshot 2026-04-12 182901" src="https://github.com/user-attachments/assets/c07c0ca0-364c-4d63-984b-9ba4bd8a72a5" />
+
+```
+<img width="1463" height="887" alt="Screenshot 2026-04-12 182921" src="https://github.com/user-attachments/assets/f2f082f9-073a-44a7-80a0-552364896f4a" />
+
+```
 ---
 
 ## 🗂️ Project Structure
